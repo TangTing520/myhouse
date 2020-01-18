@@ -1,0 +1,36 @@
+.head{
+    color: #fff;
+    background: #46CDC6;
+    img{
+        width: 75px;
+        height: 75px;
+        border-radius:100%;
+    }
+    .seting{
+        width: 100%;
+        margin-left:10px;
+        h3{
+            line-height: 50px;
+            font-size: 20px;
+
+        }
+        p{
+            line-height: 20px;
+        }
+    }
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.my{
+    flex:1;
+    border-left:1px solid #fff;
+    margin: 10px 0;
+}
+.bgfff{
+    background: #fff;
+}
+.am-list-content{
+    color:#7A7A7A !important;
+}

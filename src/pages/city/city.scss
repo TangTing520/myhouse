@@ -1,0 +1,55 @@
+.ctisy{
+    line-height: 40px;
+}
+.ctiycouny,.ctiys{
+    // width: 100px;
+    // height: 72px;
+    background: #fff;
+    display: inline-block;
+   padding:10px 0;
+   text-align: center;
+   width: 30%;
+
+}
+// .ctiys{
+//     margin-right: 10px;
+// }
+
+.city-content{
+    background: #fff;
+    padding:8px 12px;
+ 
+}
+.letters{
+    width: 16%;
+    padding:8px 0;
+    text-align: center;
+}
+.country{
+    padding:10px 0;
+   text-align: center;
+   width: 33%;
+}
+.rightcity{
+    position: fixed;
+    top:8%;
+// background: red;
+    right:0;
+    width: 18px;
+    p{
+        text-align: center;
+        width: 100%;
+        font-size: 10px;
+    }
+    // margin-top: -25px;
+}
+.crityin{
+    position: fixed;
+    top:0;
+    height: 100%;
+    margin-top: 45px;
+}
+.ctirybottom{
+    height: 100%;
+    
+}
